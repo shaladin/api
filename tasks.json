@@ -1,0 +1,65 @@
+[
+	{
+		"appId": "TRN2019080001",
+		"customer": "Sumatris",
+		"phone": "085600001234",
+		"address": "Jl. Kebon Jeruk No. 80, Jakarta Barat",
+		"amtDue": 500000
+	},
+	{
+		"appId": "TRN2019080002",
+		"customer": "Fiona",
+		"phone": "085600008888",
+		"address": "Jl. Kebon Jeruk No. 80, Jakarta Barat",
+		"amtDue": 600000
+	},
+	{
+		"appId": "TRN2019080003",
+		"customer": "Bangkit",
+		"phone": "085600001233",
+		"address": "Jl. Kebon Jeruk No. 80, Jakarta Barat",
+		"amtDue": 700000
+	},
+	{
+		"appId": "TRN2019080004",
+		"customer": "Raymond",
+		"phone": "085600004444",
+		"address": "Jl. Kebon Jeruk No. 80, Jakarta Barat",
+		"amtDue": 550000
+	},
+	{
+		"appId": "TRN2019080005",
+		"customer": "Intishar Abdillah",
+		"phone": "085600001111",
+		"address": "Jl. Kebon Jeruk No. 80, Jakarta Barat",
+		"amtDue": 650000
+	},
+	{
+		"appId": "TRN2019080006",
+		"customer": "Riska",
+		"phone": "085600002222",
+		"address": "Jl. Kebon Jeruk No. 80, Jakarta Barat",
+		"amtDue": 750000
+	},
+	{
+		"appId": "TRN2019080007",
+		"customer": "Susilo Utomo",
+		"phone": "085600008989",
+		"address": "Jl. Kebon Jeruk No. 80, Jakarta Barat",
+		"amtDue": 850000
+	},
+	{
+		"appId": "TRN2019080008",
+		"customer": "William Reagen",
+		"phone": "085600001234",
+		"address": "Jl. Kebon Jeruk No. 80, Jakarta Barat",
+		"amtDue": 900000
+	},
+	{
+		"appId": "TRN2019080009",
+		"customer": "Vincent",
+		"phone": "085600001223",
+		"address": "Jl. Kebon Jeruk No. 80, Jakarta Barat",
+		"amtDue": 950000
+	}
+]
