@@ -67,22 +67,21 @@
 	"products": [
 		{
 			"product": "Honda Vario",
-			"price": 17500000
+			"price": 17500000,
 			"image": "https://cdn.moladin.com/motor/honda/Honda_Vario_150_eSP_2087_69904_large_mobile.jpg",
-			"detail": "Skuter andalan Honda trendy  dan sporty. Promo Agustus merdeka, harga motor mulai Rp10,000",
+			"detail": "Skuter andalan Honda trendy  dan sporty. Promo Agustus merdeka, harga motor mulai Rp10,000"
 		},
 		{
 			"product": "Honda Beat",
-			"price": 16500000
+			"price": 16500000,
 			"image": "https://www.hondacengkareng.com/wp-content/uploads/2018/11/Honda-BeAT-eSP-CBS-Techno-Blue-White.jpg",
-			"detail": "Skuter andalan Honda trendy  dan sporty. Promo Agustus merdeka, harga motor mulai Rp10,000",
+			"detail": "Skuter andalan Honda trendy  dan sporty. Promo Agustus merdeka, harga motor mulai Rp10,000"
 		},
 		{
 			"product": "Honda CB 150R",
-			"price": 36500000
+			"price": 36500000,
 			"image": "https://www.hondacengkareng.com/wp-content/uploads/2018/11/honda-cbr-150r-k45n-abs-victory-black-red-2.jpg",
-			"detail": "Skuter andalan Honda trendy  dan sporty. Promo Agustus merdeka, harga motor mulai Rp10,000",
+			"detail": "Skuter andalan Honda trendy  dan sporty. Promo Agustus merdeka, harga motor mulai Rp10,000"
 		}
 	]
-
 }
