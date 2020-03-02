@@ -1,5 +1,6 @@
 {
   "instance": [
+    {"address": "54.254.169.210:8080", "name": "Server Test", "lang": "MY"},
     {"address": "54.254.169.210", "name": "Server 1", "lang": "MY"},
     {"address": "13.251.215.14", "name": "Server 2", "lang": "GE"},
     {"address": "52.76.68.176", "name": "Server 3", "lang": "VN"},
