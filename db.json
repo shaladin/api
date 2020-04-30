@@ -6,7 +6,7 @@
     {"address": "52.76.68.176", "url": "http://52.76.68.176", "name": "Vietnamese", "lang": "VN"},
     {"address": "52.220.10.132", "url": "http://52.220.10.132", "name": "Vietnamese 2", "lang": "VN"},
     {"address": "18.136.143.234", "url": "http://18.136.143.234", "name": "Hindi", "lang": "IN"},
-    {"address": "18.139.37.70", "url": "http://18.139.37.70", "name": "French", "lang": "FR"},
+    {"address": "18.139.37.70", "url": "https://frvoice.lifewood.com", "name": "French", "lang": "FR"},
     {"address": "3.0.30.9", "url": "http://3.0.30.9", "name": "Russian", "lang": "RU"}
   ]
 }
